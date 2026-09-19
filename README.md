@@ -1,5 +1,5 @@
 <h1 align="center">Ahmed ElKassrawy</h1>
-<p align="center">AI Engineer building LLM agents and internal tooling that make teams faster.</p>
+<p align="center">AI Engineer — I build LLM-powered agents, RAG systems, and the backends that run them.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-elkassrawy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -8,11 +8,10 @@
 
 ---
 
-- 🔭 I build **AI agents & agentic workflows** — LangChain, LangGraph, CrewAI
+- 🤖 I build **AI agents & agentic workflows** with LangChain, LangGraph, and CrewAI
 - 🧩 I ship them as **production backends** — FastAPI, Celery, Docker, PostgreSQL/pgvector
-- 🎙️ I work with **RAG** and **real-time voice** pipelines (Pipecat, Deepgram, Cartesia)
-- ⚡ I use AI coding tools daily — **Claude Code, Codex, Gemini** — and pick up new ones fast
-- 🌱 Currently going deeper on **MCP servers** and multi-agent systems
+- 🔎 I work with **RAG** and **real-time voice** pipelines (Pipecat, Deepgram, Cartesia)
+- 🌱 Always learning new AI tools, models, and techniques
 
 ### 🛠️ Tech
 
@@ -50,4 +49,4 @@
 | [SDR Agent](https://github.com/ahmedelkassrawy/SDR-Agent) | Researches companies and writes personalized cold emails |
 | [context8](https://github.com/ahmedelkassrawy/context8) | Docs RAG CLI with hybrid full-text + vector search |
 
-<p align="center"><i>Want to build an AI agent or tool? → <a href="mailto:amelkassrawy2005@gmail.com">amelkassrawy2005@gmail.com</a></i></p>
+<p align="center"><i>📫 Reach me at <a href="mailto:amelkassrawy2005@gmail.com">amelkassrawy2005@gmail.com</a></i></p>
